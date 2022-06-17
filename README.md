@@ -1,7 +1,8 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
 
-## Overview  of Project: explain the purpose of this analysis
+
+## Overview  of Project: 
+explain the purpose of this analysis: Performing analysis on Kickstarter data to uncover trends
 
 
 ## Analysis and Challenges: 
