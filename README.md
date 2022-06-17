@@ -14,7 +14,7 @@ explain how you performed your analysis using images and links to code, as well 
 ## Results: answer the following questions in complete and coherent sentenses.
 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?  
 - The month that launched the most successful Kickstarter campaign in the theater category was May. 
-- January, March, September, November and December all had roughly the same lowest number of failed campaigns launched, while May and October had roughly the same highest number of failed campaigns launche.
+- January, March, September, November and December all had roughly the same lowest number of failed campaigns launched, while May and October had roughly the same highest number of failed campaigns launched.
 - The only month that lanuched theatre campaign without cancellation was October. 
 2.  What can you conclude about the Outcomes based on Goals?
 * There was no cancellation on the plays campaign. The campaigns whose goals were less than $1000 were the most successful, followed by the goals in the range of $1,000-$4,999 and $35,000-$44,999；while the most failed campaigns whose goal were in the range of $45,000-$49,999. 
