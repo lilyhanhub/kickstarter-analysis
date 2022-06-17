@@ -17,6 +17,7 @@ explain how you performed your analysis using images and links to code, as well 
 - January, March, September, November and December all had roughly the same lowest number of failed campaigns launched, while May and October had roughly the same highest number of failed campaigns launche.
 - The only month that lanuched theatre campaign without cancellation was October. 
 2.  What can you conclude about the Outcomes based on Goals?
+* There was no cancellation on the plays campaign. The campaigns whose goals were less than $1000 were the most successful, followed by the goals in the range of $1,000-$4,999 and $35,000-$44,999；while the most failed campaigns whose goal were in the range of $45,000-$49,999. 
 3. What are some limitations of this dataset?
 4.  What are some other possbile tables and/or graphs that we could create?
 
