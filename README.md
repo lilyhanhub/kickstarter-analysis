@@ -9,7 +9,7 @@ This analysis would help Louice see the outcomes with data visualizaitons.
 ## Analysis and Challenges: 
 explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcome them. If you had no challenges, describe any possible challenges or difficulites that could be encountered. 
 
-###### Splitting the parent/subcategory column into two distinct columns "Parent category" and "Subcategory". So 
+###### Splitting the parent/subcategory column into two distinct columns "Parent category" and "Subcategory". So..... Line with markers charts can help Louice determine the trends. 
 
 ## Results: answer the following questions in complete and coherent sentenses.
 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?  
