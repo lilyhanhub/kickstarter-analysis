@@ -2,7 +2,7 @@
 
 
 ## Overview  of Project: 
-Providing analysis on Kickstarter data to uncover trends for Louice. As Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to 
+Providing analysis on Kickstarter data to uncover trends for Louice's project campaign. As Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to 
 This analysis would help Louice see the outcomes with data visualizaitons. 
 
 
