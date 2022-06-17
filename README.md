@@ -6,6 +6,17 @@ Perfoming analysis on Kickstarter data to uncover trends for Louice's project ca
 
 
 ## Analysis and Challenges: 
+The analysis consists of two technical analysis deliverables: Outcomes Based on Launch Date Chart and Outcomes Based on Goals Chart. 
+* Deliverable 1: Outcomes Based on Launch Date Chart. 
+  * A new column labeled "Years" was created by extracting the year from the "Date Created Conversion" column of the Kickstarter worksheet.
+  * A pivot table was created in a new worksheet labeled "Theater Outcomes by Launch Date" from the Kickstarter worksheet filtering by "Parent Category"
+    and "Years", with Columns value "outcomes", Rows value "Date Created Conversion", and Values "Count of outcomes". 
+  * Then the "Parent Category" was fllled on "theater".
+  * The row lables were changed to display the months of the year, and the campaign outcomes were sorted in descending order.
+  * Lastly, a line with markers chart was inserted showing the number of successful, failed, aor canceled projects by months, with a title "Theater 
+    Outcomes based on Launch Date".
+ 
+
 explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcome them. If you had no challenges, describe any possible challenges or difficulites that could be encountered. 
 
 ###### Splitting the parent/subcategory column into two distinct columns "Parent category" and "Subcategory". So..... Line with markers charts can help Louice determine the trends. 
