@@ -24,6 +24,6 @@ explain how you performed your analysis using images and links to code, as well 
 
   For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
 
-3. What are some limitations of this dataset?
-4.  What are some other possbile tables and/or graphs that we could create?
+#### 3. What are some limitations of this dataset?
+#### 4.  What are some other possbile tables and/or graphs that we could create?
 
