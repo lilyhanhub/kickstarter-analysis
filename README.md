@@ -37,8 +37,9 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory column. However, when
       populating the "Number Successful", "Number Failed", "Number Canceled" columns, the other subcategories were still be counted. After 
       troubleshooting this issue, I added the criteria "plays" to all my COUNTIFS() arguments, and the problem was solved. 
-    * While creating the line chart, I selected the whole table to create the line chart, and I was given a chart with Y-values of number of campaigns.       This chart was difficult to determine the trend. To overcome the difficulty, I filtered the table Y-values to percentage of successful, failed, 
-      and canceled. Finally, the filtered chart tells the relationship between the outcomes and the goal-amount ranges. 
+    * While creating the line chart, at first I selected the whole table to create the line chart, and I was given a chart with Y-values of number of
+      campaigns. This chart was difficult to determine the trend. To overcome the difficulty, I filtered the table Y-values to percentage of successful
+      failed, and canceled. Finally, the filtered chart provides a better view of the relationship between the outcomes and the goal-amount ranges. 
       
     For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
   
