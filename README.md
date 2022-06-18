@@ -17,8 +17,8 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     Outcomes based on Launch Date".
   * Challenges: 
     * Splitting the original Kickstarter worksheet "Category and Subcategory" column into two distinct columns "Parent Category" and "Subcategory"
-     because Theater is the parent category area relevant for Louice's campaign prject. In order to accomplish the task, I learned to use the "Convert
-     Text to Columns Wizard" under the Data tab to break down the data into two categories.  
+      because Theater is the parent category area relevant for Louice's campaign prject. In order to accomplish the task, I learned to use the "Convert
+      Text to Columns Wizard" under the Data tab to break down the data into two categories.  
      
     For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
     
@@ -34,8 +34,12 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
   * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges, with a title 
     "Outcomes Based on Goal".
   * Challenges:
-    * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory column. However, the 
-    
+    * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory column. However, when
+      populating the "Number Successful", "Number Failed", "Number Canceled" columns, the other subcategories were still be counted. After 
+      troubleshooting this issue, I added the criteria "plays" to all my COUNTIFS() arguments, and the problem was solved. 
+    * While creating the line chart, I selected the whole table to create the line chart, and I was given a chart with Y-values of number of campaigns.       This chart was difficult to determine the trend. To overcome the difficulty, I filtered the table Y-values to percentage of successful, failed, 
+      and canceled. Finally, the filtered chart tells the relationship between the outcomes and the goal-amount ranges. 
+      
     For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
   
 ## Results:
