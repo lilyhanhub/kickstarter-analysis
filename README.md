@@ -33,14 +33,11 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     was calculated and populated.
   * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges, with a title 
     "Outcomes Based on Goal".
+  * Challenges:
+    * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory column. However, the 
     
     For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
   
-* Challenges I 
- as well as any challenges you encountered and how you overcome them. If you had no challenges, describe any possible challenges or difficulites that could be encountered. 
-
-##### Splitting the parent/subcategory column into two distinct columns "Parent category" and "Subcategory". So..... Line with markers charts can help Louice determine the trends. 
-
 ## Results:
 #### 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?  
 - The month that launched the most successful Kickstarter campaign in the theater category was May. 
