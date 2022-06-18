@@ -56,5 +56,5 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
 #### 3. What are some limitations of this dataset?
 
 #### 4.  What are some other possbile tables and/or graphs that we could create?
-* We could also create a bar chart to show the visual presentation of Outcome values baseds on the Goal-amount ranges. 
+* We could also create a bar chart to compare the outcome values in different goal-amount ranges. 
 
