@@ -54,6 +54,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
 * There was no cancellation on the plays campaign. The campaigns whose goals were less than $1,000 were the most successful, followed by the goals in the range of $1,000-$4,999 and $35,000-$44,999；while the most failed campaigns whose goal were in the range of $45,000-$49,999. 
 
 #### 3. What are some limitations of this dataset?
+* When looking at the Deadline and Launched_at columns in the original Kickstarter worksheet, the data in these columns contains Unix timestamps, which is not easy to read. We have to convert these timestamps into a regular month-day-year format for data analysis. 
 
 #### 4.  What are some other possbile tables and/or graphs that we could create?
 * We could also create [a bar chart to compare the outcome values in different goal-amount ranges.](/Outcomes_vs_Goals_barchart.png)
