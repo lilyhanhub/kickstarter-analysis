@@ -18,7 +18,8 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
   * Challenges: 
    * Splitting the original Kickstarter worksheet "Category and Subcategory" column into two distinct columns "Parent Category" and "Subcategory"
      because Theater is the parent category area relevant for Louice's campaign prject. In order to accomplish the task, I learned to use the "Convert
-     Text to Columns Wizard" under the Data tab to break down the data into two categories.    
+     Text to Columns Wizard" under the Data tab to break down the data into two categories.  
+     
     For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
     
 * Deliverable 2: Outcomes Based on Goals Chart
