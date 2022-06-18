@@ -33,7 +33,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
 * Challenges I 
 explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcome them. If you had no challenges, describe any possible challenges or difficulites that could be encountered. 
 
-###### Splitting the parent/subcategory column into two distinct columns "Parent category" and "Subcategory". So..... Line with markers charts can help Louice determine the trends. 
+##### Splitting the parent/subcategory column into two distinct columns "Parent category" and "Subcategory". So..... Line with markers charts can help Louice determine the trends. 
 
 ## Results:
 #### 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?  
