@@ -16,9 +16,10 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
   * Lastly, a line with markers chart was inserted showing the number of successful, failed, aor canceled projects by months, with a title "Theater 
     Outcomes based on Launch Date".
   * Challenges: 
-    * Splitting the original Kickstarter worksheet "Category and Subcategory" column into two distinct columns "Parent Category" and "Subcategory"
-      because Theater is the parent category area relevant for Louice's campaign prject. In order to accomplish the task, I learned to use the "Convert
-      Text to Columns Wizard" under the Data tab to break down the data into two categories.  
+    * To set a filter on theater category for Louise's campaign project, but the original Kickstarer worksheet only consists a combined "Category and
+      Subcategory" column. Therefore, splitting the Kickstarter "Category and Subcategory" column into two distinct columns "Parent Category" and
+      "Subcategory" is the key to solve the issue. In order to accomplish the task, I learned to use the "Convert Text to Columns Wizard" under the Data
+      tab to break down the data into two categories.  
      
     For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
     
@@ -34,9 +35,9 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
   * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges, with a title 
     "Outcomes Based on Goal".
   * Challenges:
-    * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory column. However, when
+    * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory" column. However, when
       populating the "Number Successful", "Number Failed", "Number Canceled" columns, the other subcategories were still be counted. After 
-      troubleshooting this issue, I added the criteria "plays" to all my COUNTIFS() arguments, and the problem was solved. 
+      troubleshooting this issue, I added the criteria "plays" to all the COUNTIFS() arguments, and the problem was solved. 
     * While creating the line chart, at first I selected the whole table to create the line chart, and I was given a chart with Y-values of number of
       campaigns. This chart was difficult to determine the trend. To overcome the difficulty, I filtered the table Y-values to percentage of successful
       failed, and canceled. Finally, the filtered chart provides a better view of the relationship between the outcomes and the goal-amount ranges. 
