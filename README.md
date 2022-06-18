@@ -15,7 +15,8 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
   * The row lables were changed to display the months of the year, and the campaign outcomes were sorted in descending order.
   * Lastly, a line with markers chart was inserted showing the number of successful, failed, aor canceled projects by months, with a title "Theater 
     Outcomes based on Launch Date".
-  For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
+    
+    For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
     
 * Deliverable 2: Outcomes Based on Goals Chart
   * A new worksheet was created and labled "Outcomes Based on Goals", with eight columns: Goal, Number Successful, Number Failed, Number Canceled, Total
@@ -28,7 +29,8 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     was calculated and populated.
   * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges, with a title 
     "Outcomes Based on Goal".
-  For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
+    
+    For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
   
 * Challenges I 
 explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcome them. If you had no challenges, describe any possible challenges or difficulites that could be encountered. 
