@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# Kickstarting with Excel
 
 
 ## Overview  of Project: 
@@ -15,7 +15,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
   * The row lables were changed to display the months of the year, and the campaign outcomes were sorted in descending order.
   * Lastly, a line with markers chart was inserted showing the number of successful, failed, aor canceled projects by months, with a title "Theater 
     Outcomes based on Launch Date".
-  * Challenges: 
+  * Challenges and difficulties encounted: 
     * To set a filter on theater category for Louise's campaign project, but the original Kickstarer worksheet only consists a combined "Category and
       Subcategory" column. Therefore, splitting the Kickstarter "Category and Subcategory" column into two distinct columns "Parent Category" and
       "Subcategory" is the key to solve the issue. In order to accomplish the task, I used the "Convert Text to Columns Wizard" under the Data
@@ -34,7 +34,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     was calculated with formula and populated.
   * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges, with a title 
     "Outcomes Based on Goal".
-  * Challenges:
+  * Challenges and difficulties encounted: 
     * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory" column. However, when
       populating the "Number Successful", "Number Failed", "Number Canceled" columns, the other subcategories were still be counted. After 
       troubleshooting this issue, I added the criteria "plays" to all the COUNTIFS() arguments, and the problem was solved. 
