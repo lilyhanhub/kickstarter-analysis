@@ -55,7 +55,6 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
 
 #### 3. What are some limitations of this dataset?
 * This dataset range from 2011 to 2017. There're no any recent data after 2017, which may not reflect the most recent situation and trend. 
-* When looking at the "Deadline" and "Launched_at" columns in the original Kickstarter worksheet, the data in these columns contains Unix timestamps, which is not easy to read. We have to convert these timestamps into a regular month-day-year format for data analysis. 
 
 #### 4.  What are some other possbile tables and/or graphs that we could create?
 * We could create a pivot table and a bar graph to show if using spotlight would help with the outcome of the campaigns. 
