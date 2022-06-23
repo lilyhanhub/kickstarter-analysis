@@ -30,7 +30,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     Kickstarter worksheet "outcome" column, on the "goal" amount colunmn using the range groups, and on the "Subcategory" column using "plays" as the
     criteria. 
   * The "Total Projects" column was populated by using the SUM() function, and the percentage of successful, failed, and canceled projects for each row
-    was calculated with formula and populated.
+    was calculated with formula and populated. `=SUM(B3:D3)`
   * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges.
     ![Outcomes Based on Goal](/Outcomes_vs_Goals.png)
   * Challenges and difficulties encounted: 
