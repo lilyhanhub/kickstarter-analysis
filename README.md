@@ -31,8 +31,8 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     criteria. 
   * The "Total Projects" column was populated by using the SUM() function, and the percentage of successful, failed, and canceled projects for each row
     was calculated with formula and populated.
-  * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges, with a title 
-    "Outcomes Based on Goal".
+  * Lastly, a line chart was inserted showing the pecentage of successful, failed, or canceled projects by the goal-amount ranges.
+    ![Outcomes Based on Goal](/Outcomes_vs_Goals.png)
   * Challenges and difficulties encounted: 
     * While filtering the "Subcategory" column by "plays", I only used the filter on the Kickstarter worksheet "Subcategory" column. However, when
       populating the "Number Successful", "Number Failed", "Number Canceled" columns, the other subcategories were still be counted. After 
