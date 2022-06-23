@@ -2,7 +2,7 @@
 
 
 ## Overview  of Project: 
-The purpose of this project is to Perform analysis on Kickstarter data to uncover trends for Louice's fundraising campaign. As Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Therefore, this analysis would help Louice see the outcomes and determine the trends with data visualizaitons, so she can better prepare for her Kickstarter campaign.
+The purpose of this project is to perform analysis on Kickstarter data to uncover trends for Louice's fundraising campaign. As Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Therefore, this analysis would help Louice see the outcomes and determine the trends with data visualizaitons, so she can better prepare for her Kickstarter campaign.
 
 
 ## Analysis and Challenges: 
