@@ -43,7 +43,6 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
       campaigns. This chart was difficult to determine the trend. To overcome the difficulty, I filtered the table Y-values to percentage of successful
       failed, and canceled. Finally, the filtered chart provides a better view of the relationship between the outcomes and the goal-amount ranges. 
       
-    For more information, see [the line chart visualizing the relationship between outcomes and launch goals.](/Outcomes_vs_Goals.png)
   
 ## Results:
 #### 1. What are two conclusions you can draw about the Theater Outcomes by Launch Date?  
