@@ -21,7 +21,6 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
       "Subcategory" is the key to solve the issue. In order to accomplish the task, I used the "Convert Text to Columns Wizard" under the Data
       tab to break down the data into two categories.  
      
-    For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
     
 * Deliverable 2: Outcomes Based on Goals Chart
   * A new worksheet was created and labled "Outcomes Based on Goals" with eight columns:
