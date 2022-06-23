@@ -24,8 +24,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
     For more information, See [the line with markers chart visualizing the relationship between outcomes and launch month.](/Theater_Outcomes_vs_Launch.png)
     
 * Deliverable 2: Outcomes Based on Goals Chart
-  * A new worksheet was created and labled "Outcomes Based on Goals", with eight columns: Goal, Number Successful, Number Failed, Number Canceled, Total
-    Projects, Percentage Successful, Percentage Failed, Percentage Canceled. 
+  * A new worksheet was created and labled "Outcomes Based on Goals" with eight columns:
     ![Outcomes Based on Goals table](/Outcomes_Goals_table.png)
   * In the "Goal" column, twelve dollar-amount ranges from less than $1,000 to over $50,000 with a $5,000 increment were grouped. 
   * Then the "Number Successful", "Number Failed", and "Number Canceled" columns were populated by using the COUNTIFS() funcations, with filters on the 
