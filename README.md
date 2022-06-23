@@ -61,4 +61,3 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
 * We could create a pivot table and a bar graph to show if using spotlight would help with the outcome of the campaigns. 
 * Similarly, We could create a pivot table and a bar graph to show how the staff_picked campaigns correlate to the outcomes or if there is influence on the campaign outcomes. 
 * We could also create [a bar chart to compare the outcome values in different goal-amount ranges.](/Outcomes_vs_Goals_barchart.png)
-
