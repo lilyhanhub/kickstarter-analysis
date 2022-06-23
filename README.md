@@ -9,11 +9,9 @@ The purpose of this project is to perform analysis on Kickstarter data to uncove
 The analysis consists of two technical analysis deliverables: Outcomes Based on Launch Date Chart and Outcomes Based on Goals Chart. 
 * Deliverable 1: Outcomes Based on Launch Date Chart
   * A new column labeled "Years" was created by extracting the year from the "Date Created Conversion" column of the Kickstarter worksheet.
-  * A pivot table was created in a new worksheet labeled "Theater Outcomes by Launch Date" from the Kickstarter worksheet filtering by "Parent
-    Category" and "Years", with Columns value "outcomes", Rows value "Date Created Conversion", and Values "Count of outcomes". 
+  * A pivot table was created in a new worksheet labeled "Theater Outcomes by Launch Date" from the Kickstarter worksheet filtering on "theater" by
+    "Parent Category" and "Years", and the campaign outcomes were sorted in descending order.
     ![Outcome Based on Launch Date pivot table](/Outcomes_Launchdate_pivottable.png) 
-  * Then the "Parent Category" was fllled by "theater".
-  * The row lables were changed to display the months of the year, and the campaign outcomes were sorted in descending order.
   * Lastly, a line with markers chart was inserted showing the number of successful, failed, aor canceled projects by months, with a title "Theater 
     Outcomes based on Launch Date".
   * Challenges and difficulties encounted: 
