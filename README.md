@@ -39,7 +39,7 @@ The analysis consists of two technical analysis deliverables: Outcomes Based on 
       populating the "Number Successful", "Number Failed", "Number Canceled" columns, the other subcategories were still be counted. After 
       troubleshooting this issue, I added the criteria "plays" to all the COUNTIFS() arguments, and the problem was solved. The following COUNTIFS
       formula was used to gather the number of successful Kickstarter play campaigns with goals between $1,000 and $4,999:
-     '''=COUNTIFS(Kickstarter!$F:$F,"=successful",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D, "<=4999",Kickstarter!$R:$R,"=plays")'''
+     ```=COUNTIFS(Kickstarter!$F:$F,"=successful",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D, "<=4999",Kickstarter!$R:$R,"=plays")```
     * While creating the line chart, at first I selected the whole table to create the line chart, and I was given a chart with Y-values of number of
       campaigns. This chart was difficult to determine the trend. To overcome the difficulty, I filtered the table Y-values to percentage of successful
       failed, and canceled. Finally, the filtered chart provides a better view of the relationship between the outcomes and the goal-amount ranges. 
